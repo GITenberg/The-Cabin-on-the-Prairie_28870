@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33562'
     url: http://www.gutenberg.org/2009/agents/33562
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28870#The-Cabin-on-the-Prairie
 gutenberg_issued: '2009-05-18'
 gutenberg_type: Text
 identifiers:
